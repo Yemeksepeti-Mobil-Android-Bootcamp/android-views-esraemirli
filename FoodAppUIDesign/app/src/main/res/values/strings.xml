@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodAppUIDesign</string>
+    <string name="item_detail">Apples are nutritious. Apples may be good for weight loss. apples may be good for your heart. As part of a healtful and varied diet.</string>
+    <string name="review">Review</string>
+    <string name="quantity_100">100gr</string>
+    <string name="nutritions">Nutritions</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="kg_price">1kg, Price</string>
+    <string name="item_title">Naturel Red Apple</string>
+    <string name="button_title">Add To Basket</string>
+    <string name="startedText">Get started</string>
+    <string name="titleText">Food for Everyone</string>
+</resources>
