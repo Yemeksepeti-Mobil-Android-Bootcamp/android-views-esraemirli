@@ -7,7 +7,7 @@ The first assignment in Yemeksepeti Mobile Android Bootcamp training. It contain
 Clone the project.
 
 ```bash
-
+git@github.com:Yemeksepeti-Mobil-Android-Bootcamp/android-views-esraemirli.git
 ```
 
 ## Usage
@@ -15,6 +15,8 @@ Clone the project.
 After cloning the project, open the program in Android Studio.
 
 ## UI
+
+![food_app_ui](https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-views-esraemirli/blob/main/food_app_ui.gif)
 
 
 ## License
